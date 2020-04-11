@@ -25,7 +25,7 @@ h1{
 
 /* Hide the images by default */
 .mySlides {
-    display: ;
+    display: none;
 }
 
 /* Next & previous buttons */
