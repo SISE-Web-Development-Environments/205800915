@@ -17,6 +17,19 @@ h1{
      font-size: 40px;
      text-align: center;
  }
+ iframe {
+     text-align: center;
+     border-style: inset;
+     border-color: initial;
+     border-image: initial;
+     width: 600px;
+     height: 400px;
+ }
+
+ section{
+     text-align: center;
+ }
+
 
 *{box-sizing:border-box}
 /* Slideshow container */
