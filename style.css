@@ -7,6 +7,9 @@ header{
     padding-top: 10px;
     text-shadow:5px 5px 5px white;
 }
+#menu {
+    color: aliceblue;
+}
 h1{
     font-size: 100px;
     text-align: center;
@@ -51,6 +54,7 @@ vertical-align: middle;
  section{
      text-align: center;
  }
+
 
 
 *{box-sizing:border-box}
