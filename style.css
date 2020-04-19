@@ -7,9 +7,10 @@ header{
     padding-top: 10px;
     text-shadow:5px 5px 5px white;
 }
-#menu {
+.menu {
     color: aliceblue;
 }
+
 h1{
     font-size: 100px;
     text-align: center;
@@ -29,6 +30,7 @@ h1{
      height: 400px;
 
  }
+
  about{
      text-align: left;
      font-size: 0.5cm;
