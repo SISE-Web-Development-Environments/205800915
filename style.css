@@ -76,16 +76,21 @@ vertical-align: middle;
 *{box-sizing:border-box}
 /* Slideshow container */
 .Pictures-container {
-    width: 600px;
-    height: 800px;
+    width: 1000px;
+    height: 1000px;
     position: static;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2%;
 }
+.sizer {
+    width: 1000px;
+    height: 800px;
+}
 
 /* Hide the images by default */
 .myImages{
+    position: static;
     display: none;
     padding-top: 10px;
 }
@@ -125,8 +130,9 @@ vertical-align: middle;
 
 /* Number text (1/3 etc) */
 .numbertext {
+    font-weight: bold;
     color: black;
-    font-size: 12px;
+    font-size: 20px;
     padding: 8px 12px;
     top: 0;
 }
