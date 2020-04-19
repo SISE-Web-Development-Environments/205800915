@@ -22,14 +22,23 @@ h1{
      text-align: center;
  }
  iframe {
-     text-align: center;
-     border-style: inset;
-     border-color: initial;
-     border-image: initial;
-     width: 800px;
-     height: 400px;
+      text-align: center;
+      border-style: inset;
+      border-color: initial;
+      border-image: initial;
+      width: 800px;
+      height: 400px;
 
- }
+  }
+iframee {
+    text-align: center;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+    width: 800px;
+    height: 400px;
+
+}
 
  about{
      text-align: center;
